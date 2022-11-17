@@ -2,8 +2,8 @@
 
 <h1 align="center">Hello 👋, I'm Mohamed Emad</h1>
 <h3 align="center">Interested in Mobile Development as Android</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kono12&label=Profile%20views&color=0e75b6&style=flat" alt="Kono12" />
-                   <img src="https://img.shields.io/github/followers/Kono12?label=Followers" alt="Kono12" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamed02Emad&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed02Emad" />
+                   <img src="https://img.shields.io/github/followers/Mohamed02Emad?label=Followers" alt="Mohamed02Emad" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -39,11 +39,11 @@
 ## 📊 MY Github Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Mohamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kono12&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="Mohamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohamed02Emad&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
   </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kono12&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kono12" height="230px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed02Emad&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohamed02Emad" height="230px"/>
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kono12&theme=tokyonight_duo" alt="Kono12" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed02Emad&theme=tokyonight_duo" alt="Mohamed02Emad" /></p>
 <br/>
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </p>
@@ -51,17 +51,17 @@
 ----
 <!-- <summary><b>⚡ Git profile Trophies</b></summary>
  -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kono12&layout=compact&theme=algolia" alt="Kono12" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed02Emad&layout=compact&theme=algolia" alt="Mohamed02Emad" /></a> </p>
 
 ---- -->
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-<a href="https://github.com/Kono12"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kono12&custom_title=Mohamed%20Emad%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Mohamed02Emad"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohamed02Emad&custom_title=Mohamed%20Emad%27s%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
 
 
 <!---
-Kono12/Kono12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mohamed02Emad/Mohamed02Emad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
