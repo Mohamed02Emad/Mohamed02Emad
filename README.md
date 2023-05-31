@@ -25,7 +25,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
-<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://img.shields.io/badge/android%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=android-studio-code&logoColor=white" alt="Android Studio Code"></a>
+ <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://img.shields.io/badge/android%20Studio-%23999120.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio "></a>
 <a href="" title="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <!-- <a href="" title="SQL"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL"></a> -->
 <a href="" title="JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"></a>
@@ -53,11 +53,11 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed02Emad&layout=compact&theme=algolia" alt="Mohamed02Emad" /></a> </p>
 
 ---- -->
-
+<!-- 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
 <a href="https://github.com/Mohamed02Emad"><img alt="Mohamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohamed02Emad&custom_title=Mohamed%20Emad%27s%20Contribution%20Graph&theme=react-dark" /></a>
-<br/>
+<br/> -->
 
 
 <!---
