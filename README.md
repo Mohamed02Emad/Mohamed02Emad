@@ -7,12 +7,12 @@
 </p>
 
 <br>
-
+<!--
 - 👋 Hi, I’m a Computer engineering student
 - 🌱 I’m currently learning Mobile development as Android
 - 💞️ I’m looking to collaborate on Android projects
-
-## 📩 Connect with me
+📩 Connect with me
+-->
 <p align="center">
 <a href="mailto:aleslam12345@gmail.com"title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/Mohamed20Emad02" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
