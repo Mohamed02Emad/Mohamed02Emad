@@ -1,6 +1,6 @@
 <h1 align="center">اللهم صّلِ وسَلّمْ عَلۓِ نَبِيْنَا مُحَمد</h1>
 <h1 align="center">Hello 👋, I'm Mohamed Emad</h1>
-<h3 align="center">Interested in Mobile Development as Android</h3>
+<h3 align="center">Interested in Mobile Development as Android / Flutter</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamed02Emad&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed02Emad" />
                    <img src="https://img.shields.io/github/followers/Mohamed02Emad?label=Followers" alt="Mohamed02Emad" />
 </p>
